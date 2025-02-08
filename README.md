@@ -1,3 +1,4 @@
-# sb1-nszznktv
+this is my first full-stack web application , 
+this was primarily written in typescript for static coding .
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/tbthehacker/sb1-nszznktv)
+
